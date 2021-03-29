@@ -24,7 +24,6 @@ public class Main {
             }
             if (t.equals(not)) {
                 System.out.println("До свидания");
-                System.out.println("))))");
                 break;
             } else System.out.println("Некорректный ввод");
 
